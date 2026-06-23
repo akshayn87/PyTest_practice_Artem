@@ -1,0 +1,6 @@
+Why Pytest?
+Testing the lines of code is simple to find bugs 
+Introduction Python Course
+Install Library in the course
+Play with different parameters of the test and be creative 
+Change scripts and expiremnent
