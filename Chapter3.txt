@@ -1,0 +1,8 @@
+Source Code
+Present in Last Lecture of each section 
+Section 3
+Install Pytest Tasks project
+PyTest_Project3_Full is actually the testing project 
+So Take is the actual project 
+So Project 3 will be the test script that will test tasks project 
+In Section 4 has incompleted project to figure out
