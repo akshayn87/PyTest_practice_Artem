@@ -1,0 +1,21 @@
+Install Eclipse
+Install New Software in Eclipse(Help)
+https://pydev.org/updates
+PyDev (select) Next and Finish
+
+python.org
+
+Create New Project
+PyDev Project
+Project Name :Py1S
+Select the Interpreter sunch as python 3.9
+
+PyDev Perspective 
+Open Perspective 
+
+Create PyDev Module Py111
+
+Create File Test1.py
+
+print("Hello World")
+
