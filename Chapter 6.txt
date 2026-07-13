@@ -1,0 +1,6 @@
+Taking inputs from user
+#Strings
+basketballPlayer = input("Who is your favourite basketball player: ")
+print("My favourite player is "+ basketballPlayer)
+This will add string basketball player
+
