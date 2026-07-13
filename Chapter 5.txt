@@ -1,0 +1,24 @@
+Declare variables 
+Create-> New-> PyDev Project 
+
+Intro_to_python
+
+create package
+PyDev Package
+
+create  PyDev module intro.py
+print("Hello World")
+
+In python doesn't seperate each line with semicolon 
+it is called indenation level language 
+we take care of spacings for different lines of code
+date=21
+pi=3.14
+email = "willsmith@yahoo.com"
+eat= true
+
+print(date)
+print(pi)
+print(email)
+print(eat)
+
