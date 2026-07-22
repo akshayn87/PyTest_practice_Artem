@@ -1,3 +1,14 @@
 your_age = input ("your age")
 birthyear = 2026- int(your_age)
 print( birthyear)
+
+numberA = float( input (" First:"))
+numberB = float( input (" Second:"))
+numberB
+ sub=numberB-numberA
+print("result "+str(sub))
+if sub<0:
+ print ("Negative Number")
+else:
+ print("positive Number")
+
